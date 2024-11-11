@@ -117,13 +117,14 @@ const Home = () => {
       {/* TODO: BOX Contact */}
       <div className="mt-16 flex gap-14 items-center justify-center lg:justify-start lg:row-[3/4] lg:ml-5 lg:mt-48 ">
         <a
-          href="https://www.instagram.com/nour.aldeen.mahmo/"
+          href="
+          https://www.facebook.com/nouraldeen.mahmo/"
           className=" w-20 h-20 rounded-full bg-Secandary flex items-center justify-center"
         >
           <BsFacebook className="text-Fourth text-4xl logo " />
         </a>
         <a
-          href="https://www.facebook.com/nouraldeen.mahmo/"
+          href="https://www.instagram.com/nour.aldeen.mahmo/"
           className=" w-20 h-20 rounded-full bg-Secandary flex items-center justify-center"
         >
           <BsInstagram className="text-Fourth text-4xl logo" />
